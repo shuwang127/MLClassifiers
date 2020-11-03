@@ -1,4 +1,4 @@
-# 636Project
+# Adult Income Prediction
 
 ### Prediction task:
 Determine whether or not a person makes over 50K a year. This is a binary classification.
