@@ -1,9 +1,9 @@
 # 636Project
 
-Prediction task:
+## Prediction task:
 Determine whether or not a person makes over 50K a year. This is a binary classification.
 
-Attribute description:
+## Attribute description:
 1)	age: continuous.
 2)	workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
 3)	fnlwgt: continuous.
@@ -19,7 +19,7 @@ Attribute description:
 13)	hours-per-week: continuous.
 14)	native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
 
-Description of fnlwgt (final weight):
+## Description of fnlwgt (final weight):
 The weights on the CPS files are controlled to independent estimates of the civilian noninstitutional population of the US.  These are prepared monthly for us by Population Division here at the Census Bureau.  We use 3 sets of controls. These are:
 1.  A single cell estimate of the population 16+ for each state.
 2.  Controls for Hispanic Origin by age and sex.
